@@ -1,68 +1,50 @@
 [
     {
         "id": 1,
-        "tipo": "entrante",
-        "nombre": "Bruschetta",
-        "precio": 5.00
-    },
-    {
-        "id": 2,
-        "tipo": "entrante",
-        "nombre": "Croquetas de jamón",
-        "precio": 4.50
-    },
-    {
-        "id": 3,
         "tipo": "primero",
         "nombre": "Ensalada china",
         "precio": 2.80
     },
     {
-        "id": 4,
+        "id": 2,
         "tipo": "primero",
         "nombre": "Sopa de tomate",
         "precio": 3.50
     },
     {
-        "id": 5,
+        "id": 3,
         "tipo": "segundo",
         "nombre": "Filete de salmón",
         "precio": 10.50
     },
     {
-        "id": 6,
+        "id": 4,
         "tipo": "segundo",
         "nombre": "Pollo al curry",
         "precio": 8.75
     },
     {
-        "id": 7,
+        "id": 5,
         "tipo": "postre",
         "nombre": "Tarta de chocolate",
         "precio": 4.25
     },
     {
-        "id": 8,
+        "id": 6,
         "tipo": "postre",
         "nombre": "Helado de vainilla",
         "precio": 3.00
     },
     {
-        "id": 9,
+        "id": 7,
         "tipo": "bebida",
         "nombre": "Agua mineral",
         "precio": 1.50
     },
     {
-        "id": 10,
+        "id": 8,
         "tipo": "bebida",
         "nombre": "Refresco de cola",
         "precio": 2.00
-    },
-    {
-        "id": 11,
-        "tipo": "bebida",
-        "nombre": "Cerveza",
-        "precio": 3.00
     }
 ]
